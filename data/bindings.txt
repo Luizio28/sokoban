@@ -1,0 +1,11 @@
+2 south
+4 east
+6 west
+8 north
+k die
+# menu_verbose
+up north
+left east
+down south
+right west
+p pick

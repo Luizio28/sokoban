@@ -1,0 +1,312 @@
+{
+    "questions": [
+        {
+            "creator": "Ana Caroline Silva Lima",
+            "text": "Qual das alternativas abaixo informa a função dos jumpers de configuração?",
+            "right_answer": "São utilizados para ativar, regular ou desativar funções específicas do sistema que não são \nacessíveis via software.",
+            "other_alternatives":
+            [
+                "São dispositivos capazes de armazenar informações para posterior consulta ou uso.",
+                "Possuem função principal de transformar a corrente elétrica da rede, que chega em uma voltagem alta, para uma \nvoltagem menor, que é a indicada para o hardware do computador.",
+                "São um conjunto de linhas de comunicação que permitem a interligação entre dispositivos."
+            ]
+        },
+        {
+            "creator": "Clarice Cleny Alves da Silva",
+            "text": "Sobre o multímetro, assinale a alternativa CORRETA sobre uma de suas funções:",
+            "right_answer": "Verifica a tensão contínua ou alternada de determinado circuito elétrico.",
+            "other_alternatives":
+            [
+                "Serve para medir a temperatura ambiente.",
+                "Não realiza testes de continuidade em circuitos elétricos.",
+                "Serve para limpar componentes do computador deixando-os funcionais."
+            ]
+        },
+        {
+            "creator": "Daniel Vitor Gomes da Cruz",
+            "text": "Um computador sofre uma carga de energia estática ao entrar em contato com um profissional que iria limpa-lo, \nnesse caso o que o profissional deve fazer para evitar possiveis danos?",
+            "right_answer": "Procurar possíveis danos antes de ligar a máquina.",
+            "other_alternatives":
+            [
+                "Limpar o computador e testalo após um tempo.",
+                "Ligar o computador imediatamente.",
+                "Desistir do computador."
+            ]
+        },
+        {
+            "creator": "Erick Farias Brandão",
+            "text": "Соmрutаdоrеѕ ѕãо máquіnаѕ ехtrаоrdіnárіаѕ, têm funçõеѕ muіtо аvаnçаdаѕ е іntеlіgеntеѕ. Маѕ раrа іѕѕо tudо \nfunсіоnаr, реçаѕ е рrоgrаmаѕ ѕãо іndіѕреnѕávеіѕ. Ѕе соmраrаrmos um соmрutаdоr соm um ѕеr humаnо, quаl а реçа dо \nсоmрutаdоr quе fаrіа а funçãо dо cérеbrо humаnо, fаlаndо еm аrmаzеnаgеm dе dаdоѕ?",
+            "right_answer": "Disco Rígido.",
+            "other_alternatives":
+            [
+                "Placa de Vídeo.",
+                "Processador.",
+                "Monitor."
+            ]
+        },
+        {
+            "creator": "Gabriel de Souza Soledade",
+            "text": "Sobre placa mãe, é incorreto afirmar que?",
+            "right_answer": "A placa mãe é um circuito integrado formado por uma camada chamada de mesa epitaxial de silício.",
+            "other_alternatives":
+            [
+                "A placa-mãe nada mais é do que uma central de comunicação.",
+                "A placa-mãe fica encaixada diretamente com o cabo da fonte que transporta a energia elétrica necessária pra \nela funcionar.",
+                "A placa mãe é basicamente composta por 7 camadas soldadas."
+            ]
+        },
+        {
+            "creator": "Guilherme Bandeira Bozi",
+           "text": "Quando queremos utilizar o multímetro para verificar a voltagem de uma casa, qual posição devemos \nposicionar a \nchave seletora para que seja feito de forma correta a medição?",
+            "right_answer": "Corrente alternada ( V ~ ).",
+            "other_alternatives":
+            [
+                "Corrente contínua ( V - ).",
+                "Amperes ( A - ).",
+                "Ohms ( Ω )."
+            ]
+        },
+        {
+            "creator": "Gustavo Costa Santos",
+            "text": "Atualmente, a maioria dos chipsets que suportam memórias do tipo DDR, permite instalar dois módulos de \nmemória, um em cada slot, de forma que eles se comportem como se fossem um único módulo, atingindo um desempenho \nsuperior. O nome dessa técnica e a principal vantagem que oferece em termos de desempenho são, respectivamente:",
+            "right_answer": "Dual-channel e dobro de largura de banda.",
+            "other_alternatives":
+            [
+                "Double-channel e dobro de velocidade.",
+                "Dual-memory e dobro de frequência de operação.",
+                "Dual-channel e dobro de velocidade.."
+            ]
+        },
+        {
+            "creator": "Gustavo Souza Santos",
+            "text": "A corrente alternada (AC) é caracterizada por:",
+            "right_answer": "Elétrons que se movem em uma direção depois em outra, rapidamente.",
+            "other_alternatives":
+            [
+                "Elétrons que se movem em uma única direção.",
+                "Elétrons que se movem em direções diferentes e depois estabilizam.",
+                "Elétrons que se movem em uma única direção e depois alternam."
+            ]
+        },
+        {
+            "creator": "Ian Marcos Rocha Santos",
+            "text": "Quais dessas funções descritas fazem parte do multímetro?",
+            "right_answer": "Teste de continuidade em conexões",
+            "other_alternatives":
+            [
+                "Fazer atualizações automáticas no computador",
+                "Separar, arrancar ou segurar algo",
+                "Limpeza de periféricos e componentes do micro"
+            ]
+        },
+        {
+            "creator": "Jhon Abner Santos Almeida",
+            "text": "Dentre as alternativas abaixo, qual alternativa possui apenas exemplos de aplicativos que utilizam o Big Data?",
+            "right_answer": "Netflix, Twitter e Instagram.",
+            "other_alternatives":
+            [
+                "Netflix, Uber e Letras.",
+                "Facebook, Livros e Uber.",
+                "Whatsapp, Instagram e Pinturas."
+            ]
+        },
+        {
+            "creator": "João Pedro Navarro Almeida",
+            "text": "Um tipo de memória cujo conteúdo é gravado pelo fabricante, podendo ser lido, mas não modificado é \ndenominado:",
+            "right_answer": "ROM.",
+            "other_alternatives":
+            [
+                "RAM.",
+                "SDRAM.",
+                "DDR."
+            ]
+        },
+        {
+            "creator": "Kaíque Costa Nobre",
+            "text": "Falando de inteligência artificial, são somente tipos de IA:",
+            "right_answer": "Multi-Layer Perception(MLP), Convolutional Neural Networks(CNN), Recurrent Neural Networks(RCN).",
+            "other_alternatives":
+            [
+                "League of Legends(LOL) , Multi-Layer Perception(MLP), Portable Document Format(PDF).",
+                "Convolutional Neural Networks(CNN), My Little Poney(MLP), Non-Fungible Token(NFT).",
+                "Non-Fungible Token(NFT), Recurrent Neural Networks(RCN), Cable News Network(CNN)."
+            ]
+        },
+        {
+            "creator": "Kauan Viana de Oliveira",
+            "text": "Com qual tipo de memória é possível a leitura, gravação e regravação de dados, mas que, ao desligar o \ncomputador, esse tipo de memória perde todos esses dados.",
+            "right_answer": "RAM.",
+            "other_alternatives":
+            [
+                "EPROM.",
+                "ROM.",
+                "PROM."
+            ]
+        },
+        {
+            "creator": "Kezia Silva Santos",
+            "text": "Marque a alternativa incorreta ao fazer a manutenção no PC:",
+            "right_answer": "Executar uma atualização de BIOS mal-sucedida.",
+            "other_alternatives":
+            [
+                "Executar um backup completo do sistema, antes de tudo.",
+                "Executar o utilitário de verificação de disco (chkdsk).",
+                "Executar todas as atualizações de aplicativos e drivers."
+            ]
+        },
+        {
+            "creator": "Larissa Araújo Costa",
+            "text": "Existem vários tipos de fontes de alimentação, porém, os dois mais utilizados são:",
+            "right_answer": "AT e ATX.",
+            "other_alternatives":
+            [
+                "TA e ATX.",
+                "AT e TAX.",
+                "TA e TAX."
+            ]
+        },
+        {
+            "creator": "Lucas Souza Santos",
+            "text": "Ѕе еu dіѕѕеr quе mеu соmрutаdоr dе mеѕа nãо еѕtá lіgаndо, ѕеndо quе еlе еѕtá соnесtаdо nа tоmаdа е о \nрrоblеmа nãо еѕtá nо mоnіtоr nеm nо bоtãо dе асіоnаmеntо. О рrоblеmа tem uma maior probabilidade de еѕtаr оndе?",
+            "right_answer": "Fonte.",
+            "other_alternatives":
+            [
+                "Gabinete.",
+                "Sata.",
+                "HDMI."
+            ]
+        },
+        {
+            "creator": "Luis Guilherme Gusmão Lima Meloti",
+            "text": "Qual desses itens abaixo é usado para manter a temperatura da CPU baixa e constante:",
+            "right_answer": "Pasta térmica.",
+            "other_alternatives":
+            [
+                "Pasta de dente.",
+                "Creme de cabelo.",
+                "Pasta isolante."
+            ]
+        },
+        {
+            "creator": "Luis Roberto Barbosa Braga Almeida",
+            "text": "Pra que serve a BIOS e onde se encontra?",
+            "right_answer": "Controla e configura os dispositivos periféricos dentro da placa-mãe.",
+            "other_alternatives":
+            [
+                "Transfere energia para o computador na fonte de alimentação.",
+                "Controla os dispositivos de saída dentro da placa-mãe.",
+                "Serve pra configuar os dispositivos conectados dentro da CPU."
+            ]
+        },
+        {
+            "creator": "Maria Luiza Costa dos Santos",
+            "text": "Esse tipo de memória contém um padrão permanente de dados, que não pode ser mudado. Não é volátil, ou \nseja, nenhuma fonte de energia é necessária para manter os valores dos bits na memória. É possível ler o que tem \nnessa memória porém, não é possível escrever algo novo nela. A memória citada no texto acima é conhecida como:",
+            "right_answer": "ROM.",
+            "other_alternatives":
+            [
+                "DRAM.",
+                "SDRAM.",
+                "Flash."
+            ]
+        },
+        {
+            "creator": "Pedro Lucas Oliveira da Silva",
+            "text": "Quando vamos promover a manutenção de um computador (nos componentes internos) é necessário utilizar \nequipamentos específicos, como luvas, pinça antiestática e manta antiestática. Dentre as alternativas abaixo, \nmarque a que esta corretamente relacionada com o motivo de se usar os equipamentos citados acima: ",
+            "right_answer": "Evitar que a energia antiestática danifique os equipamentos.",
+            "other_alternatives":
+            [
+                "Evitar sujar os componentes internos.",
+                "Evitar conectar componentes no lugar errado.",
+                "Possibilitar que a energia antiestática possa entrar em contato com os componentes, melhorando o seu funcionamento."
+            ]
+        },
+        {
+            "creator": "Quételi Tourinho de Oliveira",
+            "text": "As funções dos processadores podem ser divididas em duas grandes categorias, que são denominadas função \nde controle e função de processamento. Marque a alternativa que mostre a funcionalidade da função de controle.",
+            "right_answer": "Buscar, interpretar e controlar a execução.",
+            "other_alternatives":
+            [
+                "Processar, cálculo lógico e cálculo aritmético.",
+                "Buscar, processar e execução.",
+                "Controlar a execução, Cálculo lógico e cálculo aritmético."
+            ]
+        },
+        {
+            "creator": "Roberta Ellen Souza Santos",
+            "text": "Das alternativas seguintes, é correto afirmar que:",
+            "right_answer": "O HD é mais lento que a RAM e armazena dados permanentemente.",
+            "other_alternatives":
+            [
+                "Ao desmontar um computador é não existe a necessidade de usar ferramentas antiestática.",
+                "Existem lacunas de ar entre o cooler e o processador que atrapalham a dissipação de calor. Para melhorar \nisso, é preciso aplicar álcool isopropílico ao unir os componentes.",
+                "O cabo flat SATA possui 3 conexões: um preto, um azul e um vermelho."
+            ]
+        },
+        {
+            "creator": "Ruan Carlos de Jesus Souza",
+            "text": "Como é denominado um PC que não depende apenas dos componentes do fabricante criador, mas também \npossibilita o uso de periféricos e Sistema Operacional de vários outros fabricantes?",
+            "right_answer": "Arquitetura Aberta.",
+            "other_alternatives":
+            [
+                "Arquitetura Fechada.",
+                "Arquitetura de Controle.",
+                "Arquitetura Regular."
+            ]
+        },
+        {
+            "creator": "Savannah Silva Reis",
+            "text": "O que é hot swapping?",
+            "right_answer": "Tecnologia que permite a remoção e substituição de componentes em equipamentos sem precisar \ndesligá-los.",
+            "other_alternatives":
+            [
+                "Um dispositivo que permite a comunicação direta do usuário com o computador.",
+                "Implica no processo de apagar totalmente o conteúdo do computador, reinstalando seu sistema operacional do \nzero.",
+                "É o componente responsável por dar mais agilidade e velocidade no funcionamento geral do sistema. "
+            ]
+        },
+        {
+            "creator": "Stefany Caroline Brito Nascimento",
+            "text": "Qual desses componentes eletrônicos incorpora miniaturas de diversos componentes gravados em uma pequena \nlâmina de silício?",
+            "right_answer": "Circuitos integrados.",
+            "other_alternatives":
+            [
+                "Componentes integrados.",
+                "Transformadores.",
+                "Diodos."
+            ]
+        },
+        {
+            "creator": "Surielly Oliveira da Silva",
+            "text": "Assinale a alternativa que corresponde a solução de \"bugs\" que surgem durante o uso mais intenso de um \nprograma:",
+            "right_answer": "Manutenção Corretiva.",
+            "other_alternatives":
+            [
+                "Manutenção Perfectiva.",
+                "Manutenção Adaptativa.",
+                "Manutenção Preventiva."
+            ]
+        },
+        {
+            "creator": "Thales Amorim de Jesus",
+            "text": "Qual desses dispositivos é um periférico de entrada de dados?",
+            "right_answer": "Teclado.",
+            "other_alternatives":
+            [
+                "Caixa de som.",
+                "Monitor.",
+                "Memória RAM."
+            ]
+        },
+        {
+            "creator": "Thiago Oliveira Martins",
+            "text": "Quais desses nomes é uma tipo de entrada:",
+            "right_answer": "USB.",
+            "other_alternatives":
+            [
+                "Chipset.",
+                "DVD.",
+                "HD."
+            ]
+        }
+    ]
+}

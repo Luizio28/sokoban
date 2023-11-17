@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "creator": "Erick Farias Brandão",
+            "text": "Qual das alternativas abaixo não representa uma função presente nas strings:",
+            "right_answer": "war_flix",
+            "other_alternatives":
+            [
+                "title",
+                "swapcase",
+                "format_map"
+            ]
+        },
+        {
+            "creator": "Erick Farias Brandão",
+            "text": "Dos aplicativos abaixo, qual não funciona para programar:",
+            "right_answer": "duolingo",
+            "other_alternatives":
+            [
+                "portugol",
+                "pycharm",
+                "visual studio"
+            ]
+        },
+        {
+            "creator": "Erick Farias Brandão",
+            "text": "Qual dos comandos abaixo não está presente na sintaxe de Python:",
+            "right_answer": "escreva",
+            "other_alternatives":
+            [
+                "str",
+                "range",
+                "random"
+            ]
+        },
+        {
+            "creator": "Erick Farias Brandão",
+            "text": "Qual o comando para imprimir texto na tela?",
+            "right_answer": "print",
+            "other_alternatives":
+            [
+                "int",
+                "else",
+                "while"
+            ]
+        },
+        {
+            "creator": "Erick Farias Brandão",
+            "text": "Qual a definição de Algoritmo?",
+            "right_answer": "Algoritmo é uma sequência lógica de instruções que devem ser seguidas para resolução de um problema",
+            "other_alternatives":
+            [
+                "Algoritmo é um programa de computador que segue uma sequência lógica de tarefas e variáveis",
+                "Algoritmo é um problema lógico que para ser solucionado necessita de um programa baseado em tarefas",
+                "Algoritmo é algo que tem ritmo que causa um problema em quem não tem coordenação motora, gerando um problema"
+            ]
+        },
+        {
+            "creator": "Erick Farias Brandão",
+            "text": "O que é uma variável?",
+            "right_answer": "É um objeto (uma posição, frequentemente localizada na memória) capaz de reter e representar um \nvalor ou expressão",
+            "other_alternatives":
+            [
+                "É um local na memória destinado a guardar um calculo informado pelo usuário.",
+                "São onde os calculos realizados pelos processadores são armazenados.",
+                "É uma equação matematica que armazena os números irracionais."
+            ]
+        },
+        {
+            "creator": "Erick Farias Brandão",
+            "text": "Qual a forma mais resumida de incrementar a variável \"a = 0\" em Python?",
+            "right_answer": "a += 1",
+            "other_alternatives":
+            [
+                "a++",
+                "a = a+1 if a else 1",
+                "a = a+1"
+            ]
+        },
+        {
+            "creator": "Erick Farias Brandão",
+            "text": "Qual a forma ideal de imprimir o texto \"Erick é lindo\" na tela:",
+            "right_answer": "print(\"Erick é lindo\")",
+            "other_alternatives":
+            [
+                "printf(\"Erick é lindo\")",
+                "print \"Erick é lindo\"",
+                "print(Erick é lindo)"
+            ]
+        },
+        {
+            "creator": "Erick Farias Brandão",
+            "text": "Quem criou a linguagem de programação Python?",
+            "right_answer": "Guido Van Rossum",
+            "other_alternatives":
+            [
+                "James Gosling",
+                "Rasmus Lerdof",
+                "Brendan Eich"
+            ]
+        },
+        {
+            "creator": "Luis Roberto Barbosa Braga Almeida",
+            "text": "Qual o método para se dividir uma string por caractére específico e transformar numa lista em python?",
+            "right_answer": ".rsplit()",
+            "other_alternatives":
+            [
+                ".append()",
+                ".copy()",
+                ".sqrt()"
+            ]
+        }
+    ]
+}
